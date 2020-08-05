@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Fullstack multiplatform Developer!
 
-#### I'm also a videogame dev student
+### I'm also a videogame dev student
 
 - 🔭 I’m currently working on different flutter apps!
 - 🌱 I’m currently learning everything that I can 🤓
