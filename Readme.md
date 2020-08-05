@@ -40,10 +40,16 @@
 
 ---
 
-<!-- <img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true" />  -->
+<p align="center">
+<img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true" />
 
+<img align="right" alt="NoVvaN's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true" /> 
+</p>
+
+<!--
 [![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)
+-->
 
 <!-- [website]: https://codeSTACKr.com -->
 
