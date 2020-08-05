@@ -42,7 +42,7 @@
 
 ---
 
-<img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true" />
+<img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 <!-- [website]: https://codeSTACKr.com -->
 
