@@ -1,8 +1,6 @@
 ### Hi there, my name's Ian, nice to meet you. 👋
 
-## I'm a Student, and Fullstack multiplatform Developer!
-
-### I'm also a videogame dev student
+## I'm a full-stack web developer that's gotten really interested in flutter and video-game development!
 
 - 🔭 I’m currently working on different flutter apps!
 - 🌱 I’m also learning everything that I can 🤓
@@ -42,7 +40,10 @@
 
 ---
 
-<img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<!-- <img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true" />  -->
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact)](https://github.com/novvan)
 
 <!-- [website]: https://codeSTACKr.com -->
 
