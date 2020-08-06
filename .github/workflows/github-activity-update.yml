@@ -1,4 +1,4 @@
-name: update-gh-activity
+name: github-activity-update
 
 on:
   schedule:
