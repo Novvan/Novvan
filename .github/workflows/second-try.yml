@@ -1,7 +1,5 @@
+name: UPDATE GITHUB ACTIONS
 on:
-  push:
-    branches: 
-      - master
   schedule:
     - cron: '*/30 * * * *'      
 
