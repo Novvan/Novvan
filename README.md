@@ -1,6 +1,6 @@
 ### Hi there, my name's Ian, nice to meet you. 👋
 
-## I'm a full-stack web developer that's really interested in flutter and video-game development!
+## I'm a full-stack web developer that's really interested in flutter and video-game dev!
 
 - 🔭 I’m currently working on different flutter apps!
 - 🌱 I’m also learning everything that I can 🤓
