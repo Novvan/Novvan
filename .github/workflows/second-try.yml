@@ -1,5 +1,12 @@
-name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@master
-  with:
-    # Your GitHub username
-    USERNAME: # optional, default is ${{ github.repository_owner }}
+on:
+  schedule:
+    - cron: '*/30 * * * *'      
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: GitHub - Activity - Readme
+      uses: jamesgeorge007/github-activity-readme@v0.1.7
+      with:
+        USERNAME: Novvan
