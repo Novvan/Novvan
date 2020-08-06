@@ -2,6 +2,8 @@
 name: update-gh-activity
 
 on:
+  push:
+    branches: master
   schedule:
     - cron: '30 * * * *'
 
