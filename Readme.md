@@ -11,12 +11,9 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
 [<img align="left" alt="Ian Geier's  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ian Geier's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ian Geier's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -35,20 +32,10 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br />
-<br />
-
 ---
-
-<!--
-<img align="left" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true" />
-<img align="right" alt="NoVvaN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true" />
--->
-
 [![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)
 
 <!-- [website]: https://codeSTACKr.com -->
-
 [twitter]: https://twitter.com/iangeier
 [instagram]: https://instagram.com/iangeier
 [linkedin]: https://linkedin.com/in/iangeier
