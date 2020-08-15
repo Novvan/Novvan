@@ -31,8 +31,10 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />]
 [<img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />][unrealengine]
-
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dotnet.svg" />]
 <br />
 
 ---
@@ -60,3 +62,4 @@
 [flutter]: https://flutter.dev/
 [unity]: https://unity.com/
 [unrealengine]: https://www.unrealengine.com/en-US/
+[csharp]: https://dotnet.microsoft.com/
