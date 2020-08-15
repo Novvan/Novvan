@@ -31,9 +31,9 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />]
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][csharp]
 [<img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />][unrealengine]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][cplusplus]
 
 <br />
 
@@ -62,4 +62,5 @@
 [flutter]: https://flutter.dev/
 [unity]: https://unity.com/
 [unrealengine]: https://www.unrealengine.com/en-US/
-[csharp]: https://dotnet.microsoft.com/
+[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+[cplusplus]: https://docs.microsoft.com/en-us/cpp/?view=vs-2019
