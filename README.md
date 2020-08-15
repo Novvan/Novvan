@@ -34,7 +34,7 @@
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />]
 [<img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />][unrealengine]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dotnet.svg" />]
+
 <br />
 
 ---
