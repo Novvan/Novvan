@@ -39,6 +39,12 @@
 
 ---
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#18](https://github.com//games50/fifty-bird/pull/18) in [games50/fifty-bird](https://github.com//games50/fifty-bird)
+2. 💪 Opened PR [#61](https://github.com//games50/pong/pull/61) in [games50/pong](https://github.com//games50/pong)
+3. 🎉 Merged PR [#10](https://github.com//Novvan/FrontEndCourse/pull/10) in [Novvan/FrontEndCourse](https://github.com//Novvan/FrontEndCourse)
+4. 🎉 Merged PR [#14](https://github.com//Novvan/FinalProgramacion-8bitWitcher/pull/14) in [Novvan/FinalProgramacion-8bitWitcher](https://github.com//Novvan/FinalProgramacion-8bitWitcher)
+5. 💪 Opened PR [#14](https://github.com//Novvan/FinalProgramacion-8bitWitcher/pull/14) in [Novvan/FinalProgramacion-8bitWitcher](https://github.com//Novvan/FinalProgramacion-8bitWitcher)
+<!--END_SECTION:activity-->
 
 <br />
 <br />
