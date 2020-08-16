@@ -38,6 +38,8 @@
 <br />
 
 ---
+### :zap: Recent activity:
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#18](https://github.com//games50/fifty-bird/pull/18) in [games50/fifty-bird](https://github.com//games50/fifty-bird)
 2. 💪 Opened PR [#61](https://github.com//games50/pong/pull/61) in [games50/pong](https://github.com//games50/pong)
