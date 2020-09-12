@@ -41,11 +41,11 @@
 ### :zap: Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com//Novvan/cleanflutter)
-2. 💪 Opened PR [#1](https://github.com//Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com//Novvan/cleanflutter)
-3. 💪 Opened PR [#18](https://github.com//games50/fifty-bird/pull/18) in [games50/fifty-bird](https://github.com//games50/fifty-bird)
-4. 💪 Opened PR [#61](https://github.com//games50/pong/pull/61) in [games50/pong](https://github.com//games50/pong)
-5. 🎉 Merged PR [#10](https://github.com//Novvan/FrontEndCourse/pull/10) in [Novvan/FrontEndCourse](https://github.com//Novvan/FrontEndCourse)
+1. ❗️ Opened issue [#63](https://github.com//ReinBentdal/division/issues/63) in [ReinBentdal/division](https://github.com//ReinBentdal/division)
+2. 🎉 Merged PR [#1](https://github.com//Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com//Novvan/cleanflutter)
+3. 💪 Opened PR [#1](https://github.com//Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com//Novvan/cleanflutter)
+4. 💪 Opened PR [#18](https://github.com//games50/fifty-bird/pull/18) in [games50/fifty-bird](https://github.com//games50/fifty-bird)
+5. 💪 Opened PR [#61](https://github.com//games50/pong/pull/61) in [games50/pong](https://github.com//games50/pong)
 <!--END_SECTION:activity-->
 
 <br />
