@@ -3,9 +3,6 @@
 ## I'm a full-stack web developer that's really interested in flutter and video-game dev!
 
 - 🔭 I’m currently working on different flutter apps!
-- 🌱 I’m also learning everything that I can 🤓
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a videogame nerd.
 
 ### Connect with me:
