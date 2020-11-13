@@ -17,16 +17,14 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />][flutter]
-[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />][angular]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][node]
-[<img align="left" alt="Deno" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" />][deno]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
+[<img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt="Angular" width="26px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />][angular]
+[<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][react]
+[<img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][node]
+[<img align="left" alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][mysql]
+[<img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][mongodb]
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
+[<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][unity]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][csharp]
 [<img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />][unrealengine]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][cplusplus]
@@ -58,11 +56,9 @@
 [angular]: https://angular.io/
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/
-[deno]: https://deno.land/
 [mysql]: https://www.mysql.com/
 [mongodb]: https://www.mongodb.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/Novvan/
 [flutter]: https://flutter.dev/
 [unity]: https://unity.com/
 [unrealengine]: https://www.unrealengine.com/en-US/
