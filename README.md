@@ -36,9 +36,9 @@
 ### :zap: Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Novvan/FrontEndCourse/issues/23) in [Novvan/FrontEndCourse](https://github.com/Novvan/FrontEndCourse)
-2. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❗️ Opened issue [#63](https://github.com/ReinBentdal/division/issues/63) in [ReinBentdal/division](https://github.com/ReinBentdal/division)
+1. 🎉 Merged PR [#23](https://github.com/Novvan/FrontEndCourse/pull/23) in [Novvan/FrontEndCourse](https://github.com/Novvan/FrontEndCourse)
+2. 🗣 Commented on [#23](https://github.com/Novvan/FrontEndCourse/issues/23) in [Novvan/FrontEndCourse](https://github.com/Novvan/FrontEndCourse)
+3. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 4. 🎉 Merged PR [#1](https://github.com/Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com/Novvan/cleanflutter)
 5. 💪 Opened PR [#1](https://github.com/Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com/Novvan/cleanflutter)
 <!--END_SECTION:activity-->
