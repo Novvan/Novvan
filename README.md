@@ -3,6 +3,8 @@
 ## I'm a full-stack web developer that's really interested in flutter and video-game dev!
 
 - 🔭 I’m currently working on different flutter apps!
+- 🎮 Looking out for game design internships
+- 👨‍💻 Creator of HellReign
 - ⚡ Fun fact: I am a videogame nerd.
 
 ### Connect with me:
