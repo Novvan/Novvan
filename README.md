@@ -48,6 +48,60 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 80 Contributions in the Year 2021
+ > 
+> 📦 339.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
+🌆 Daytime    137 commits    ██████████░░░░░░░░░░░░░░░   42.41% 
+🌃 Evening    90 commits     ███████░░░░░░░░░░░░░░░░░░   27.86% 
+🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+C#                       5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+ShaderLab                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
+
+
+ Last Updated on 19/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
