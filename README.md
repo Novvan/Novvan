@@ -77,10 +77,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +101,7 @@ ShaderLab                2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
