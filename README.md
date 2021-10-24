@@ -87,11 +87,11 @@ Windows                  1 min               ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-C#                       5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-ShaderLab                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Dart                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+C#                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+ShaderLab                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 ```
 
@@ -101,7 +101,7 @@ ShaderLab                2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
