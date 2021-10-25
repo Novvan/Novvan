@@ -52,23 +52,23 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2021
+> 🏆 83 Contributions in the Year 2021
  > 
 > 📦 339.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
-🌆 Daytime    137 commits    ██████████░░░░░░░░░░░░░░░   42.41% 
-🌃 Evening    90 commits     ███████░░░░░░░░░░░░░░░░░░   27.86% 
-🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+🌆 Daytime    137 commits    ██████████░░░░░░░░░░░░░░░   42.15% 
+🌃 Evening    92 commits     ███████░░░░░░░░░░░░░░░░░░   28.31% 
+🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
 
 ```
 
@@ -101,7 +101,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
