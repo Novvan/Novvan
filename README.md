@@ -7,7 +7,7 @@
 - 👨‍💻 Creator of HellReign
 - ⚡ Fun fact: I am a videogame nerd.
 
-### Connect with me:
+**Connect with me:**
 
 <!-- [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Ian Geier's  | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
@@ -15,8 +15,9 @@
 [<img align="left" alt="Ian Geier's | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 <br />
+<br />
 
-### Languages and Tools:
+**Languages and Tools:**
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
 [<img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
@@ -35,7 +36,7 @@
 <br />
 
 
-### :zap: Recent activity:
+**:zap: Recent activity:**
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#23](https://github.com/Novvan/FrontEndCourse/pull/23) in [Novvan/FrontEndCourse](https://github.com/Novvan/FrontEndCourse)
@@ -44,7 +45,6 @@
 4. 🎉 Merged PR [#1](https://github.com/Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com/Novvan/cleanflutter)
 5. 💪 Opened PR [#1](https://github.com/Novvan/cleanflutter/pull/1) in [Novvan/cleanflutter](https://github.com/Novvan/cleanflutter)
 <!--END_SECTION:activity-->
-
 <br />
 
 <!--START_SECTION:waka-->
