@@ -48,27 +48,25 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 83 Contributions in the Year 2021
+> 🏆 86 Contributions in the Year 2021
  > 
-> 📦 339.6 kB Used in GitHub's Storage 
+> 📦 360.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
-🌆 Daytime    137 commits    ██████████░░░░░░░░░░░░░░░   42.15% 
-🌃 Evening    92 commits     ███████░░░░░░░░░░░░░░░░░░   28.31% 
-🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
+🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
+🌆 Daytime    138 commits    ██████████░░░░░░░░░░░░░░░   42.2% 
+🌃 Evening    93 commits     ███████░░░░░░░░░░░░░░░░░░   28.44% 
+🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62%
 
 ```
 
@@ -87,11 +85,11 @@ Windows                  1 min               ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-C#                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-ShaderLab                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+Dart                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+C#                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
 
@@ -101,7 +99,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2021
+ Last Updated on 26/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
