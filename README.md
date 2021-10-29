@@ -75,14 +75,14 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 48 mins        █████████████████░░░░░░░░   68.89% 
-YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+JavaScript               2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.27% 
+Dart                     2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.1% 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.0%
+Windows                  5 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
