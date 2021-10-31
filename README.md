@@ -52,7 +52,7 @@
 
 > 🏆 89 Contributions in the Year 2021
  > 
-> 📦 360.3 kB Used in GitHub's Storage 
+> 📦 360.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,14 +75,14 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.42% 
-JavaScript               2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   38.34% 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48%
+Dart                     3 hrs 38 mins       █████████████░░░░░░░░░░░░   53.46% 
+JavaScript               2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   34.41% 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
 
 💻 Operating System: 
-Windows                  6 hrs 4 mins        █████████████████████████   100.0%
+Windows                  6 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Novvan/Novvan/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
