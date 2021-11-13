@@ -50,9 +50,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 159 Contributions in the Year 2021
+> 🏆 165 Contributions in the Year 2021
  > 
-> 📦 512.4 kB Used in GitHub's Storage 
+> 📦 602.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,10 +63,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-🌆 Daytime    124 commits    █████████░░░░░░░░░░░░░░░░   36.69% 
-🌃 Evening    126 commits    █████████░░░░░░░░░░░░░░░░   37.28% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
+🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
+🌆 Daytime    127 commits    █████████░░░░░░░░░░░░░░░░   36.92% 
+🌃 Evening    129 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
+🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
 
 ```
 
@@ -75,12 +75,10 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 49 mins        ████████████████████████░   98.92% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +95,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
