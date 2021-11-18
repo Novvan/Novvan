@@ -63,10 +63,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-🌆 Daytime    127 commits    █████████░░░░░░░░░░░░░░░░   36.71% 
-🌃 Evening    131 commits    █████████░░░░░░░░░░░░░░░░   37.86% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
+🌞 Morning    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+🌆 Daytime    106 commits    ████████░░░░░░░░░░░░░░░░░   35.33% 
+🌃 Evening    107 commits    █████████░░░░░░░░░░░░░░░░   35.67% 
+🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67%
 
 ```
 
@@ -96,7 +96,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2021
+ Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
