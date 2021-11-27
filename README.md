@@ -50,9 +50,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 210 Contributions in the Year 2021
+> 🏆 212 Contributions in the Year 2021
  > 
-> 📦 603.6 kB Used in GitHub's Storage 
+> 📦 603.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,10 +63,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
-🌆 Daytime    129 commits    █████████░░░░░░░░░░░░░░░░   38.97% 
-🌃 Evening    115 commits    ████████░░░░░░░░░░░░░░░░░   34.74% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48%
+🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+🌆 Daytime    130 commits    █████████░░░░░░░░░░░░░░░░   39.04% 
+🌃 Evening    116 commits    ████████░░░░░░░░░░░░░░░░░   34.83% 
+🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41%
 
 ```
 
@@ -97,7 +97,7 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
