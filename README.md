@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 212 Contributions in the Year 2021
+> 🏆 213 Contributions in the Year 2021
  > 
-> 📦 603.7 kB Used in GitHub's Storage 
+> 📦 603.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
@@ -87,17 +87,17 @@ Linux                    0 secs              ░░░░░░░░░░░�
 **I Mostly Code in C#** 
 
 ```text
-C#                       7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-Dart                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+C#                       7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Dart                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
 
 ```
 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
