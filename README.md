@@ -75,12 +75,10 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     14 mins             █████████████████████████   100.0% 
-Solidity                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.0% 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +95,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
