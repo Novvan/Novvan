@@ -52,7 +52,7 @@
 
 > 🏆 216 Contributions in the Year 2021
  > 
-> 📦 603.9 kB Used in GitHub's Storage 
+> 📦 604.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +95,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
