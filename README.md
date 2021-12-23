@@ -75,10 +75,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 min               ██████░░░░░░░░░░░░░░░░░░░   26.46% 
+Markdown                 1 min               █████░░░░░░░░░░░░░░░░░░░░   22.15% 
+JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+Dart                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -95,7 +99,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
