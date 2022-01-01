@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 216 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 604.0 kB Used in GitHub's Storage 
  > 
@@ -75,12 +75,13 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   14 mins             ██████████████████░░░░░░░   74.57% 
-JSON                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.29% 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Dart                     53 mins             ████████████████░░░░░░░░░   67.47% 
+Vue.js                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
+Windows                  1 hr 18 mins        █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +98,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
