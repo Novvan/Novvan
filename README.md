@@ -75,13 +75,12 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     53 mins             ████████████████░░░░░░░░░   67.47% 
-Vue.js                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+Dart                     53 mins             ██████████████████████░░░   88.94% 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.0%
+Windows                  59 mins             █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +97,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
