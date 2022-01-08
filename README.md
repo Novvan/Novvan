@@ -75,12 +75,10 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     53 mins             ██████████████████████░░░   88.94% 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +95,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
