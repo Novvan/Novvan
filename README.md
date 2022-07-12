@@ -1,11 +1,11 @@
 ### Hi there, my name's Ian, nice to meet you. 👋
 
-## I'm a full-stack web developer that's really interested in flutter and video-game dev!
+## I'm a full-stack developer turned Game developer that's really interested in flutter and bringing new experiences to life!
 
-- 🔭 I’m currently working on different flutter apps!
-- 🎮 Looking out for game design internships
-- 👨‍💻 Creator of HellReign
-- ⚡ Fun fact: I am a videogame nerd.
+- 🔭 I’m currently working on different games!
+- 🎮 Looking out for new opportunities in the gaming space.
+- 👨‍💻 Creator of HellReign.
+- ⚡ Videogame nerd.
 
 **Connect with me:**
 
