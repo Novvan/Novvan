@@ -35,44 +35,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2021%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-🌆 Daytime    83 commits     ███████░░░░░░░░░░░░░░░░░░   29.02% 
-🌃 Evening    140 commits    ████████████░░░░░░░░░░░░░   48.95% 
-🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-
- Last Updated on 16/09/2022 00:36:09 UTC
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
