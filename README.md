@@ -35,7 +35,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,14 +62,14 @@
 
 ```text
 💬 Programming languages: 
-C#                       16 mins             ████████████████████████░   99.24% 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
+C#                       53 mins             █████████████████████████   99.77% 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 📝 Editors: 
-Rider                    16 mins             █████████████████████████   100.0%
+Rider                    54 mins             █████████████████████████   100.0%
 
 📚 Repositories: 
-offshoredrill            16 mins             █████████████████████████   100.0%
+offshoredrill            54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +86,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- *Updated on 13/10/2022 01:06:51 UTC*
+ *Updated on 15/10/2022 01:07:36 UTC*
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
