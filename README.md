@@ -62,16 +62,13 @@
 
 ```text
 💬 Programming languages: 
-C#                       48 mins             ████████████████████████░   99.47% 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No activity tracked this week
 
 📝 Editors: 
-Rider                    48 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 📚 Repositories: 
-offshoredrill            48 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 ```
 
@@ -88,7 +85,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- *Updated on 29/10/2022 00:53:40 UTC*
+ *Updated on 30/10/2022 01:05:53 UTC*
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
