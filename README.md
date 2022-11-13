@@ -35,7 +35,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,17 +62,16 @@
 
 ```text
 💬 Programming languages: 
-C#                       10 hrs 58 mins      ████████████████████████░   98.67% 
-ShaderLab                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+C#                       9 hrs 40 mins       █████████████████████████   99.89% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 📝 Editors: 
-Rider                    11 hrs 7 mins       █████████████████████████   100.0%
+Rider                    9 hrs 40 mins       █████████████████████████   100.0%
 
 📚 Repositories: 
-offshoredrill            10 hrs 58 mins      ████████████████████████░   98.7% 
-coiledtubing             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-location                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+offshoredrill            9 hrs 32 mins       ████████████████████████░   98.5% 
+coiledtubing             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
+location                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 ```
 
@@ -89,7 +88,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- *Updated on 12/11/2022 00:56:12 UTC*
+ *Updated on 13/11/2022 00:56:27 UTC*
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
