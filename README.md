@@ -93,9 +93,6 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/novvan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="novvan" /></a></p><br><br>
-
 
 <!-- [website]:  -->
 [twitter]: https://twitter.com/iangeier
