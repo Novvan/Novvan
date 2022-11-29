@@ -35,7 +35,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2014%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,10 +52,10 @@
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-🌆 Daytime    82 commits     ████████░░░░░░░░░░░░░░░░░   32.16% 
-🌃 Evening    101 commits    ██████████░░░░░░░░░░░░░░░   39.61% 
-🌙 Night      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+🌞 Morning    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
+🌆 Daytime    62 commits     ███████░░░░░░░░░░░░░░░░░░   27.56% 
+🌃 Evening    91 commits     ██████████░░░░░░░░░░░░░░░   40.44% 
+🌙 Night      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
 
 ```
 
@@ -87,7 +87,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- *Updated on 27/11/2022 00:53:36 UTC*
+ *Updated on 29/11/2022 00:48:56 UTC*
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
