@@ -62,14 +62,13 @@
 
 ```text
 💬 Programming languages: 
-JavaScript               19 mins             ████████████████████████░   98.2% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+No activity tracked this week
 
 📝 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 📚 Repositories: 
-Scripts                  19 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 ```
 
@@ -86,7 +85,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- *Updated on 16/02/2023 00:47:34 UTC*
+ *Updated on 18/02/2023 00:46:24 UTC*
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
