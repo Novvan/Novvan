@@ -39,9 +39,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 5 Contributions in the year 2023
+> 🏆 12 Contributions in the year 2023
  > 
-> 📦 1.8 MB Used in GitHub's storage 
+> 📦 2.0 MB Used in GitHub's storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,23 +52,26 @@
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-🌆 Daytime    56 commits     ██████░░░░░░░░░░░░░░░░░░░   26.05% 
-🌃 Evening    90 commits     ██████████░░░░░░░░░░░░░░░   41.86% 
-🌙 Night      34 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81%
+🌞 Morning    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+🌆 Daytime    58 commits     ██████░░░░░░░░░░░░░░░░░░░   26.13% 
+🌃 Evening    95 commits     ██████████░░░░░░░░░░░░░░░   42.79% 
+🌙 Night      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32%
 
 ```
 
 
 ```text
 💬 Programming languages: 
-No activity tracked this week
+C++                      38 mins             ██████████████████████░░░   91.16% 
+CSV                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 📝 Editors: 
-No activity tracked this week
+Rider                    39 mins             ██████████████████████░░░   91.22% 
+VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.78%
 
 📚 Repositories: 
-No activity tracked this week
+Rise                     42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +88,7 @@ ShaderLab                4 repos             ██░░░░░░░░░�
 
 
 
- *Updated on 06/04/2023 00:41:05 UTC*
+ *Updated on 08/04/2023 00:40:10 UTC*
 <!--END_SECTION:waka-->
 
 <!--[![My stats](https://github-readme-stats.vercel.app/api?username=novvan&show_icons=true&hide_border=true&count_private=true)](https://github.com/novvan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novvan&layout=compact&hide_border=true)](https://github.com/novvan)-->
