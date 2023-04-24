@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">I'm a full-stack developer turned Game developer!</h3>
 
-- 🔭 I’m currently working on different games!
-- 🎮 Looking out for new opportunities in the gaming space.
+- 🔭 I’m currently working at Globant!
+- 🎮 Allways looking out for opportunities in the AAA gaming space.
 - 👨‍💻 Creator of HellReign.
 - ⚡ Videogame nerd.
 
