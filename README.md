@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">I'm a full-stack developer turned Game developer!</h3>
 
-- 🔭 I’m currently working at Globant!
-- 🎮 Allways looking out for opportunities in the AAA gaming space.
-- 👨‍💻 Creator of HellReign.
+- 🔭 Working at Globant as a AAA UI Game developer!
+- 🎮 Always looking out for opportunities in the AAA gaming space.
 - ⚡ Videogame nerd.
 
 **Connect with me:**
@@ -18,18 +17,13 @@
 
 **Languages and Tools:**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
-[<img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt="Angular" width="26px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />][angular]
-[<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][node]
-[<img align="left" alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
 [<img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />][unrealengine]
 [<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" />][cplusplus]
 [<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][unity]
 [<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />][csharp]
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
+[<img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][react]
 
 <br />
 <br />
@@ -41,12 +35,7 @@
 [twitter]: https://twitter.com/iangeier
 [instagram]: https://instagram.com/iangeier
 [linkedin]: https://linkedin.com/in/iangeier
-[vscode]: https://code.visualstudio.com/
-[angular]: https://angular.io/
 [react]: https://reactjs.org/
-[node]: https://nodejs.org/
-[mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/
 [git]: https://git-scm.com/
 [flutter]: https://flutter.dev/
 [unity]: https://unity.com/
